@@ -1,0 +1,29 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orinell/heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orinell/heroku/issues"
+  },
+  "homepage": "https://github.com/Orinell/heroku#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "passport": "^0.5.2",
+    "passport-jwt": "^4.0.0"
+  },
+  "description": "TP noté (Node JS + Vue.JS)",
+  "keywords": []
+}
